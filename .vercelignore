@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.vercel
+node_modules
+.next
+_fetch
+.secrets
+.data
